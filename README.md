@@ -2,4 +2,4 @@
 # BarringerCloud
 Barringer.org Cloud Project
 
-Barringer.org is a tradition data center hosted enviroment since 1995.  We are currently working on transitioning this to a cloud based enviroment, which will require some custom code to allow for authentication, data reporting and user management as well as other services.  As we develop this code we will be using this repository for the purpose ofr checking and distribution.
+Barringer.org is a traditional data center hosted enviroment since 1995.  We are currently working on transitioning this to a cloud based enviroment, which will require some custom code to allow for authentication, data reporting and user management as well as other services.  As we develop this code we will be using this repository for the purpose ofr checking and distribution.
